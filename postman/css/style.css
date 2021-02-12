@@ -75,9 +75,6 @@ header{
     left: 0;
 }
 
-.app-container{
-    margin-top: 68px;
-}
 .app-sidebar {
     width: 280px;
     display: flex;
